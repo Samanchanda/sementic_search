@@ -1,11 +1,11 @@
-##🔍 Semantic Search with HuggingFace Embeddings
+#🔍 Semantic Search with HuggingFace Embeddings
 
 This project demonstrates a simple and powerful semantic search system using Hugging Face language models and cosine similarity. It takes a query, encodes it along with a set of documents using transformer-based sentence embeddings, and returns the most semantically similar document.
 
 
 
 
-##🚀 Features
+#🚀 Features
 
 Sentence-level semantic understanding using embeddings
 
@@ -19,7 +19,7 @@ Simple and extensible codebase — ideal for educational use and prototyping
 
 
 
-🧠 Model Used
+#🧠 Model Used
 
 Model: BAAI/bge-small-en-v1.5
 
@@ -31,7 +31,7 @@ Provided by Hugging Face and integrated using langchain_huggingface
 
 
 
-🔧 Technologies
+#🔧 Technologies
 
 Python
 
